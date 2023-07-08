@@ -1,5 +1,5 @@
 
-alert("teste")
+alert("Branch = Nova")
 const changeThemeBtn = document.querySelector("#change-theme");
 
 // Toggle dark mode
