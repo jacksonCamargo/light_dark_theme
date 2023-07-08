@@ -1,3 +1,5 @@
+
+alert("teste")
 const changeThemeBtn = document.querySelector("#change-theme");
 
 // Toggle dark mode
@@ -10,7 +12,7 @@ function loadTheme() {
   const darkMode = localStorage.getItem("dark");
 
   if (darkMode) {
-    toggleDarkMode();
+    toggleDarkMode()
   }
 }
 
