@@ -50,23 +50,23 @@
   
   .card-image {
     padding: 2rem;
-    width: 50%;
+    width: 55%;
     position: relative;
     background-color: #eff7fc;
     overflow: visible;
   }
   
   .card-image span {
-    font-size: 6rem;
+    font-size: 3rem;
     font-weight: 900;
   }
   
   .card img {
-    width: 130%;
-    transform: rotate(-25deg);
+    width: 80%;
+    transform: rotate(-0deg);
     position: absolute;
-    right: -1rem;
-    top: 10rem;
+    right: 3rem;
+    top: 11rem;
   }
   
   .card-details {
